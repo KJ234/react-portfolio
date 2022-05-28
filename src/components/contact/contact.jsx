@@ -35,12 +35,6 @@ function Contact() {
             </h3>
             <p>komaljaved308@gmail.com</p>
           </div>
-          <div class="icons">
-            <h3>
-              <i class="fas fa-phone"></i> phone
-            </h3>
-            <p>07424658233</p>
-          </div>
         </div>
       </div>
     </section>
