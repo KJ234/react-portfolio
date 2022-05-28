@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.1df83c64.css",
+    "main.js": "/react-portfolio/static/js/main.6aedbace.js",
+    "static/js/787.bc7d429a.chunk.js": "/react-portfolio/static/js/787.bc7d429a.chunk.js",
+    "static/media/cocktail.gif": "/react-portfolio/static/media/cocktail.a709d6fb0f0a6fc687ca.gif",
+    "static/media/Tablet.png": "/react-portfolio/static/media/Tablet.909d318b547a9dc26d48.png",
+    "static/media/giphy.gif": "/react-portfolio/static/media/giphy.14b5a5b7a7e1e6b45235.gif",
+    "static/media/cv.png": "/react-portfolio/static/media/cv.61156f15cbd6bd5a6a7b.png",
+    "static/media/code quiz.gif": "/react-portfolio/static/media/code quiz.df650b3cf6020bb8752c.gif",
+    "static/media/read.gif": "/react-portfolio/static/media/read.02f5b9e8b26b52b49c42.gif",
+    "static/media/ecom giphy.gif": "/react-portfolio/static/media/ecom giphy.cef7c1523c8b7d76cfb4.gif",
+    "static/media/project 1.png": "/react-portfolio/static/media/project 1.9ce3522b6dba7f1eed73.png",
+    "static/media/day.png": "/react-portfolio/static/media/day.73ba1ac5c42cdb625dc1.png",
+    "static/media/Screenshot 2022-04-18 173502.png": "/react-portfolio/static/media/Screenshot 2022-04-18 173502.a01ac8ff2f858ee47e14.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.01d21a1a1ba2854dfdad.png",
+    "static/media/Screenshot 2022-04-18 175325.png": "/react-portfolio/static/media/Screenshot 2022-04-18 175325.55be636494a10e581292.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.1df83c64.css.map": "/react-portfolio/static/css/main.1df83c64.css.map",
+    "main.6aedbace.js.map": "/react-portfolio/static/js/main.6aedbace.js.map",
+    "787.bc7d429a.chunk.js.map": "/react-portfolio/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df83c64.css",
+    "static/js/main.6aedbace.js"
+  ]
+}
