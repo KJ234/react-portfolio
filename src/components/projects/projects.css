@@ -1,0 +1,38 @@
+.projects .box-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.projects .box-container .box {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  background: rgba(255, 255, 255, 0.2);
+  text-align: center;
+  width: 22rem;
+  margin-top: -0.5rem;
+}
+
+.projects .box-container .box i {
+  color: #fff;
+  font-size: 4.5rem;
+  padding: 1rem 0;
+}
+
+.projects .box-container .box a {
+  height: fit-content;
+  width: fit-content;
+}
+
+.projects .box-container .box p {
+  color: #eee;
+  font-size: 1.3rem;
+  padding: 0.5rem 5rem;
+}
+
+.projects .box-container .box img {
+  width: 20rem;
+  height: 18rem;
+}
