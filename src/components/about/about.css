@@ -1,0 +1,40 @@
+.heading {
+  font-size: 3rem;
+  text-align: center;
+  padding: 1rem;
+  color: #fff;
+}
+
+.about .content h3 {
+  font-size: 2.5rem;
+  color: #eee;
+}
+
+.about .content h3 span {
+  color: #fff;
+}
+
+.about .content p {
+  font-size: 1.5rem;
+  color: #eee;
+  padding: 0.5rem 0;
+}
+
+.about .skills {
+  padding: 1rem 0;
+  color: #eee;
+}
+
+.skills h1 {
+  font-size: 20px;
+}
+
+.skills li {
+  font-size: 15px;
+}
+
+.contain {
+  height: 100rem;
+  width: 100rem;
+  /* background: rgba(255, 255, 255, 0.2); */
+}
