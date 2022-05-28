@@ -21,8 +21,7 @@ function links() {
 
         <div class="share">
           <a href="https://github.com/KJ234">
-            {" "}
-            <AiOutlineGithub className="= icon active-nav" />{" "}
+            <AiOutlineGithub className="= icon active-nav" />
           </a>
 
           <a href="www.linkedin.com/in/komal-javed-2b55a3232">
@@ -30,7 +29,7 @@ function links() {
           </a>
 
           <a href="https://kj234.github.io/CV-ME/">
-            <AiOutlineLink className="= icon active-nav" />{" "}
+            <AiOutlineLink className="= icon active-nav" />
           </a>
           <Nav />
         </div>
